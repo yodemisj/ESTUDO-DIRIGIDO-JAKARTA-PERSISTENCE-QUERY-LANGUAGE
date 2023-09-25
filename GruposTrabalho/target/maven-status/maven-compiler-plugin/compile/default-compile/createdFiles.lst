@@ -1,0 +1,15 @@
+io\github\yodemis\grupostrabalho\RelatorioServlet.class
+io\github\yodemis\grupostrabalho\Pessoa.class
+io\github\yodemis\grupostrabalho\Atuacao.class
+io\github\yodemis\grupostrabalho\Grupo.class
+io\github\yodemis\grupostrabalho\Telefone.class
+io\github\yodemis\grupostrabalho\CargaDadosLocal.class
+io\github\yodemis\grupostrabalho\util\Util.class
+io\github\yodemis\grupostrabalho\GrupoBean.class
+io\github\yodemis\grupostrabalho\Endereco.class
+io\github\yodemis\grupostrabalho\MembroDto.class
+io\github\yodemis\grupostrabalho\PessoaBeanLocal.class
+io\github\yodemis\grupostrabalho\GrupoBeanLocal.class
+io\github\yodemis\grupostrabalho\PessoaBean.class
+io\github\yodemis\grupostrabalho\CargaDados.class
+io\github\yodemis\grupostrabalho\TipoLogradouro.class
